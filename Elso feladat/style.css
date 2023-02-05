@@ -1,0 +1,23 @@
+div{
+    background: orange;
+  }
+  
+  h1 {
+    background: red;
+      margin: 200px 540px 80px 500px;
+    border: 2px solid white;
+    padding: 20px 10px 40px 50px;
+    width: 400px;
+    height: 300px;
+    
+  }
+  
+  h3 {
+    color: blue;
+    background: red;
+    margin: 30px;
+    
+  }
+  #nevInputMezo {
+    background: pink;
+  }
