@@ -1,0 +1,32 @@
+main {
+    border: 10px solid #4285f4;
+    width: 300px;
+    
+  }
+  
+  .eszak {
+    background: #E67676;
+  }
+  
+  .kelet {
+    background: #F2F062;
+  }
+  
+  .del {
+    background: #A9E6E6
+  }
+  
+  .nyugat {
+    background: #7692E4
+  }
+  p {
+    width: 240px;
+    padding: 30px;
+    margin: 0;
+    text-align: center;
+    color: white;
+    font-family: 'Baloo Thambi 2', cursive;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  

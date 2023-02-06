@@ -1,0 +1,22 @@
+h1 {
+    color: darksalmon;
+  }
+  h2 {
+    color: blueviolet;
+    font-weight: 1000;
+  }
+  p {
+    width: 500px;
+    font-size: 20px;
+  }
+  
+  .roman {
+    list-style-type: upper-roman;
+    text-decoration: underline;
+  }
+  
+  .lila {
+    color: purple;
+    text-decoration: underline purple;
+  }
+  
